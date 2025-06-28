@@ -68,3 +68,10 @@ The program includes basic error handling: it checks whether the input and outpu
 ### **Conclusion**
 
 This program is a well-structured example of how compression algorithms can be implemented in C++ using simple logic and file operations. It effectively demonstrates both **RLE compression** and **decompression**, making it a practical introduction to data encoding. By integrating user interaction, file handling, and string manipulation, the code not only compresses and decompresses data but also emphasizes the importance of modular design, error checking, and efficient algorithmic thinking in programming.
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/0bbcb5d1-0b74-488b-9bef-ba160b7c35cc)
+
+![Image](https://github.com/user-attachments/assets/78f03c6b-7acf-4e63-ae8d-a3a95b04c466)
+
+![Image](https://github.com/user-attachments/assets/5ea94621-db78-4a28-bfe1-ffe2d4e73c4d)
